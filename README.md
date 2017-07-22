@@ -2,7 +2,7 @@
 
 This repo contains a GPU based Parallel Implementation of the Standard Particle Swarm Optimization.
 
-Fitness Function: Rastrigin Funciton.
+Fitness Function: Rastrigin Function.
 
 Make use of the directives to make changes as follows:
 1. dims: change the number of dimensions of the search space.
