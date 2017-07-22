@@ -10,7 +10,5 @@ The parallel version has been implemented using CUDA C++ and is similar to the s
 
 The simulations directory includes Python versions of the algorithm which plots the function and simulates the behaviour of the particles using matplotlib.
 
-### RKHC Project Repo ###
-
 * SPSO implementations on CPU and GPU
 * Simulation of SPSO
